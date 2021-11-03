@@ -1,11 +1,12 @@
 body {
-    background-color: #fc9;
+    background-color: rgb(116, 116, 116);
 }
 
 h1 {
-    color: #f0f;
+    color: rgb(169, 0, 211);
 }
 
 p {
-    color: #b58;
+    color: rgb(0, 0, 0);
+    text-shadow: 100px;
 }
